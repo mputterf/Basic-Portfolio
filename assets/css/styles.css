@@ -10,7 +10,6 @@
     position: fixed;
     top: 0; 
     left: 0;
-    margin-bottom: 10px;
     border-bottom: solid 2px #cccccc;
 }
 
@@ -18,9 +17,7 @@
     width: 960px;
     height: 100px;
     margin: 0 auto;
-    background: #ffffff;
-    padding-bottom: 10px;
-    
+    background: #ffffff;    
 }
 
 #about{
@@ -62,6 +59,7 @@ h1{
     background: #4aaaa5;
     color: #ffffff;
     float: left;
+    margin-bottom: 0;
 }
 
 h2{
